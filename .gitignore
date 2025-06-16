@@ -1,0 +1,32 @@
+# Node.js dependencies
+node_modules/
+
+# Truffle build artifacts
+build/
+artifacts/
+cache/
+
+# Truffle log
+truffle.log
+
+# dotenv files
+.env
+.env.*
+
+# IDE/editor specific files
+.vscode/
+.idea/
+*.swp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Ganache workspace files (if any)
+*.log
+*.pid
+
+# Yarn specific
+.yarn/
+.pnp.*
+.yarnrc.yml
