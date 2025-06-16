@@ -1,0 +1,8 @@
+{
+  "name": "smartcontract",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Shypyfy/smartcontract.git",
+  "author": "DulshanSiriwardhana <dulshansiriwardhana70@gmail.com>",
+  "license": "MIT"
+}
